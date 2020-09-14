@@ -16,4 +16,5 @@ id="WebApp_ID" version="4.0">
   <servlet-name>Jersey RESTful Application</servlet-name>
   <url-pattern>/rest/*</url-pattern>
   </servlet-mapping>
+  <!-- http://localhost:8080/RestFulFirstExample/rest/UserService/User -->
   </web-app>
